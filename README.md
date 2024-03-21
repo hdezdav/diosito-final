@@ -1,7 +1,7 @@
 # Información del Proyecto
 
 ## Integrantes del Equipo
-- David Hernandez
+- David Hernández H.
 - Maria Antonia Muñoz
 
 ## Lenguaje de Programación
